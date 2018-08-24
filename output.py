@@ -19,8 +19,11 @@ print 'Reading {SOURCE}...'.format(SOURCE=SOURCE)
 with open(SOURCE, 'r') as f:
   DAYS = json.load(f)
 
-with open(PREFS_SOURCE, 'r') as f:
-  PREFS = json.load(f)
+if os.path.exists(PREFS_SOURCE):
+  with open(PREFS_SOURCE, 'r') as f:
+    PREFS = json.load(f)
+else:
+  PREFS = {}
 
 def hm_to_minutes(t):
   h, m = t.split(':')
