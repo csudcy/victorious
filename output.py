@@ -55,7 +55,6 @@ def get_act_style(act):
   if not prefs:
     return None
 
-  text += ' (' + ', '.join(prefs.keys()) + ')'
   max_score = max(prefs.values())
   return 'background-color: rgba(255, 0, 255, {a});'.format(a=float(max_score)/5.0)
 
@@ -86,6 +85,12 @@ def get_time_div_small(time_from, time_to, text, style=None):
     style=style,
   )
 
+def save(filename, content):
+  print 'Writing {filename}...'.format(filename=filename)
+  content = content.replace('><', '>\n<')
+  with codecs.open(filename, 'w', 'utf-8') as f:
+    f.write(content)
+
 def output_full():
   print 'Processing (full)...'
   OUTPUT = u'<html><head><title>Victorious {YEAR}</title></head><body>'.format(YEAR=YEAR)
@@ -114,10 +119,7 @@ def output_full():
     # Close up
     OUTPUT += u'</tbody></table></body></html>'
 
-  print 'Writing {DEST_FULL}...'.format(DEST_FULL=DEST_FULL)
-
-  with codecs.open(DEST_FULL, 'w', 'utf-8') as f:
-    f.write(OUTPUT)
+  save(DEST_FULL, OUTPUT)
 
 def output_small():
   print 'Processing (small)...'
@@ -171,10 +173,7 @@ def output_small():
   # Close up
   OUTPUT += u'</tbody></table></body></html>'
 
-  print 'Writing {DEST_SMALL}...'.format(DEST_SMALL=DEST_SMALL)
-
-  with codecs.open(DEST_SMALL, 'w', 'utf-8') as f:
-    f.write(OUTPUT)
+  save(DEST_SMALL, OUTPUT)
 
 output_full()
 output_small()
