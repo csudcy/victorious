@@ -1,0 +1,2097 @@
+[
+  {
+    "day": "Friday", 
+    "stages": [
+      {
+        "acts": [
+          {
+            "artist": "The Libertines", 
+            "time_from": "21:40", 
+            "time_to": "22:55"
+          }, 
+          {
+            "artist": "Kaiser Chiefs", 
+            "time_from": "20:00", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "Shed Seven", 
+            "time_from": "18:30", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "lightning seeds", 
+            "time_from": "17:20", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "come together (abbey road performed in full)", 
+            "time_from": "15:50", 
+            "time_to": "16:50"
+          }, 
+          {
+            "artist": "Hymn for Her", 
+            "time_from": "14:20", 
+            "time_to": "15:20"
+          }, 
+          {
+            "artist": "Marley Blandford", 
+            "time_from": "13:30", 
+            "time_to": "14:00"
+          }
+        ], 
+        "stage": "COMMON STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "AAA Badboy", 
+            "time_from": "21:30", 
+            "time_to": "22:30"
+          }, 
+          {
+            "artist": "Minque", 
+            "time_from": "20:45", 
+            "time_to": "21:30"
+          }, 
+          {
+            "artist": "Prince Brandon", 
+            "time_from": "19:45", 
+            "time_to": "20:45"
+          }, 
+          {
+            "artist": "Dutch Criminal Record", 
+            "time_from": "19:00", 
+            "time_to": "19:45"
+          }, 
+          {
+            "artist": "Monkeylove Stunt Team", 
+            "time_from": "17:00", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "Motif", 
+            "time_from": "15:00", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "Beats & Swing Soundsystem", 
+            "time_from": "14:00", 
+            "time_to": "15:00"
+          }
+        ], 
+        "stage": "BEATS & SWING TENT"
+      }
+    ]
+  }, 
+  {
+    "day": "Saturday", 
+    "stages": [
+      {
+        "acts": [
+          {
+            "artist": "Paul Weller", 
+            "time_from": "21:20", 
+            "time_to": "22:50"
+          }, 
+          {
+            "artist": "Brian Wilson", 
+            "time_from": "19:50", 
+            "time_to": "20:40"
+          }, 
+          {
+            "artist": "The Cribs", 
+            "time_from": "18:35", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "Gaz Coombes", 
+            "time_from": "17:20", 
+            "time_to": "18:05"
+          }, 
+          {
+            "artist": "Sleeper", 
+            "time_from": "16:20", 
+            "time_to": "16:50"
+          }, 
+          {
+            "artist": "Gabrielle Aplin", 
+            "time_from": "15:20", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Southsea Alternative Choir", 
+            "time_from": "14:30", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "Happy Mondays", 
+            "time_from": "13:15", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "Fur", 
+            "time_from": "12:15", 
+            "time_to": "12:45"
+          }
+        ], 
+        "stage": "COMMON STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Paloma Faith", 
+            "time_from": "21:55", 
+            "time_to": "22:55"
+          }, 
+          {
+            "artist": "Everything Everything", 
+            "time_from": "20:20", 
+            "time_to": "21:10"
+          }, 
+          {
+            "artist": "Billy Bragg", 
+            "time_from": "19:05", 
+            "time_to": "19:50"
+          }, 
+          {
+            "artist": "The Pigeon Detectives", 
+            "time_from": "17:50", 
+            "time_to": "18:35"
+          }, 
+          {
+            "artist": "Coasts", 
+            "time_from": "16:50", 
+            "time_to": "17:20"
+          }, 
+          {
+            "artist": "Cabbage", 
+            "time_from": "15:50", 
+            "time_to": "16:20"
+          }, 
+          {
+            "artist": "Pins", 
+            "time_from": "14:50", 
+            "time_to": "15:20"
+          }, 
+          {
+            "artist": "Mullally", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Cassia", 
+            "time_from": "13:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Electric Pyramid", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }
+        ], 
+        "stage": "CASTLE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Duke Special", 
+            "time_from": "22:00", 
+            "time_to": "22:45"
+          }, 
+          {
+            "artist": "Billy Lockett", 
+            "time_from": "20:45", 
+            "time_to": "21:30"
+          }, 
+          {
+            "artist": "Barry Hyde", 
+            "time_from": "19:45", 
+            "time_to": "20:15"
+          }, 
+          {
+            "artist": "Fenne Lily", 
+            "time_from": "18:45", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Ellie Occleston", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "Heir of the Dog", 
+            "time_from": "17:15", 
+            "time_to": "17:45"
+          }, 
+          {
+            "artist": "The Silhouettes", 
+            "time_from": "16:30", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "Omar Baba", 
+            "time_from": "15:45", 
+            "time_to": "16:15"
+          }, 
+          {
+            "artist": "Strumdiddlyumptious", 
+            "time_from": "15:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "The Smiley Campbell Band", 
+            "time_from": "14:15", 
+            "time_to": "14:45"
+          }, 
+          {
+            "artist": "John Adams", 
+            "time_from": "13:30", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "Abigail Scott", 
+            "time_from": "12:45", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "Southsea Alternative Choir", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }, 
+          {
+            "artist": "Devin Jade", 
+            "time_from": "11:15", 
+            "time_to": "11:45"
+          }, 
+          {
+            "artist": "Parv", 
+            "time_from": "10:30", 
+            "time_to": "11:00"
+          }
+        ], 
+        "stage": "ACOUSTIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Bemis", 
+            "time_from": "22:00", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "Kingz of Leon", 
+            "time_from": "21:00", 
+            "time_to": "21:45"
+          }, 
+          {
+            "artist": "Offbeat Offensive", 
+            "time_from": "20:15", 
+            "time_to": "20:45"
+          }, 
+          {
+            "artist": "Colour of the Jungle", 
+            "time_from": "19:30", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Jamin", 
+            "time_from": "18:45", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Trampolene", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "Autumn Stone", 
+            "time_from": "17:15", 
+            "time_to": "17:45"
+          }, 
+          {
+            "artist": "Orange Street", 
+            "time_from": "16:15", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "Ska Dogs", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Day of the rabblement", 
+            "time_from": "14:45", 
+            "time_to": "15:15"
+          }, 
+          {
+            "artist": "Calaveras", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "kill kasper", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "number 9", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "bella estelle", 
+            "time_from": "11:45", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "apex sun", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "SEASIDE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Channel One Sound System", 
+            "time_from": "20:00", 
+            "time_to": "22:00"
+          }, 
+          {
+            "artist": "The Majestic", 
+            "time_from": "19:00", 
+            "time_to": "19:50"
+          }, 
+          {
+            "artist": "Danny Ladwa", 
+            "time_from": "18:00", 
+            "time_to": "18:50"
+          }, 
+          {
+            "artist": "Neneh Cherry (DJ Set)", 
+            "time_from": "17:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Kasai Masai", 
+            "time_from": "16:00", 
+            "time_to": "16:50"
+          }, 
+          {
+            "artist": "Los Hombres", 
+            "time_from": "15:00", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Steepways", 
+            "time_from": "14:00", 
+            "time_to": "14:50"
+          }, 
+          {
+            "artist": "The Yellow Bellies", 
+            "time_from": "13:00", 
+            "time_to": "13:50"
+          }, 
+          {
+            "artist": "Steel Sounds", 
+            "time_from": "12:15", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Mystic hipniks picnic", 
+            "time_from": "11:30", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "drum nation welcome", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "WORLD MUSIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "REMEDYSOUNDS", 
+            "time_from": "22:15", 
+            "time_to": "22:45"
+          }, 
+          {
+            "artist": "the rivals", 
+            "time_from": "21:30", 
+            "time_to": "22:00"
+          }, 
+          {
+            "artist": "china bears", 
+            "time_from": "20:45", 
+            "time_to": "21:15"
+          }, 
+          {
+            "artist": "stone arcade", 
+            "time_from": "20:00", 
+            "time_to": "20:30"
+          }, 
+          {
+            "artist": "russ hibberd & the factory five", 
+            "time_from": "19:15", 
+            "time_to": "19:45"
+          }, 
+          {
+            "artist": "the shakeups", 
+            "time_from": "18:30", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "southsea alternative choir", 
+            "time_from": "17:45", 
+            "time_to": "18:15"
+          }, 
+          {
+            "artist": "richard morris", 
+            "time_from": "17:00", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "mayfield records showcase", 
+            "time_from": "14:00", 
+            "time_to": "16:45"
+          }, 
+          {
+            "artist": "rough cut", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "Iolar", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "room 10", 
+            "time_from": "11:45", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "white sox", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "REAL ALE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Paddy Taylor", 
+            "time_from": "20:10", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "lauren barker", 
+            "time_from": "19:30", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "katie louise ball", 
+            "time_from": "18:40", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "quilla robinson", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "joscha david mohs", 
+            "time_from": "17:20", 
+            "time_to": "17:50"
+          }, 
+          {
+            "artist": "andy osman", 
+            "time_from": "16:40", 
+            "time_to": "17:10"
+          }, 
+          {
+            "artist": "greg barnes", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "evangeline", 
+            "time_from": "15:20", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "livvy", 
+            "time_from": "14:40", 
+            "time_to": "15:10"
+          }, 
+          {
+            "artist": "sam sweetman", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "josh tremain", 
+            "time_from": "13:20", 
+            "time_to": "13:50"
+          }, 
+          {
+            "artist": "faye carpenter", 
+            "time_from": "12:40", 
+            "time_to": "13:10"
+          }, 
+          {
+            "artist": "alaina sparkes", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }, 
+          {
+            "artist": "josh sanderson", 
+            "time_from": "11:20", 
+            "time_to": "11:50"
+          }, 
+          {
+            "artist": "acoustic avenue", 
+            "time_from": "10:40", 
+            "time_to": "11:10"
+          }
+        ], 
+        "stage": "STRONG ISLAND ACOUSTIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "reactor 1", 
+            "time_from": "20:10", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "parys reid", 
+            "time_from": "19:30", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "dogsocket", 
+            "time_from": "18:40", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "archie langley", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "Mike Keating", 
+            "time_from": "17:20", 
+            "time_to": "17:50"
+          }, 
+          {
+            "artist": "george regan & chris mckenzie", 
+            "time_from": "16:40", 
+            "time_to": "17:10"
+          }, 
+          {
+            "artist": "madeline", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "paige brooker", 
+            "time_from": "15:20", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "jay groovara band", 
+            "time_from": "14:40", 
+            "time_to": "15:10"
+          }, 
+          {
+            "artist": "emma gattrell", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "reening lau", 
+            "time_from": "13:20", 
+            "time_to": "13:50"
+          }, 
+          {
+            "artist": "george barton", 
+            "time_from": "12:40", 
+            "time_to": "13:10"
+          }, 
+          {
+            "artist": "erin gracie", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }, 
+          {
+            "artist": "harrison etherington", 
+            "time_from": "11:20", 
+            "time_to": "11:50"
+          }, 
+          {
+            "artist": "the cold heart revue", 
+            "time_from": "10:15", 
+            "time_to": "11:15"
+          }
+        ], 
+        "stage": "SHOWCASE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Sian Evans", 
+            "time_from": "21:30", 
+            "time_to": "22:30"
+          }, 
+          {
+            "artist": "Jacks", 
+            "time_from": "20:00", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "DRGM", 
+            "time_from": "19:15", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Shoot the duke", 
+            "time_from": "18:15", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "skinnyman", 
+            "time_from": "17:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "tom mayhem", 
+            "time_from": "16:00", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "cw jones", 
+            "time_from": "15:15", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "los cojones", 
+            "time_from": "14:15", 
+            "time_to": "15:15"
+          }, 
+          {
+            "artist": "grant sharkey", 
+            "time_from": "13:45", 
+            "time_to": "14:15"
+          }, 
+          {
+            "artist": "southsea swing", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "dj francisco jones", 
+            "time_from": "12:15", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "Happy Hula Monkeys", 
+            "time_from": "11:30", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "Beats & Swing Soundsystem", 
+            "time_from": "10:30", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "BEATS & SWING TENT"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "wax equities", 
+            "time_from": "21:00", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "gentle bren and pimpernel jones", 
+            "time_from": "20:00", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "gentle bren", 
+            "time_from": "19:00", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "monkey love stunt team", 
+            "time_from": "18:00", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "gentle bren", 
+            "time_from": "16:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "calum green", 
+            "time_from": "15:00", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "wax equities", 
+            "time_from": "14:00", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "gentle bren", 
+            "time_from": "13:00", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "luke dharma", 
+            "time_from": "12:00", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "gentle bren", 
+            "time_from": "11:00", 
+            "time_to": "12:00"
+          }
+        ], 
+        "stage": "SOUTHSEA CASTLE CHAMPAGNE BAR"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Hip-Hop jam", 
+            "time_from": "21:45", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "slick minded individuals", 
+            "time_from": "20:30", 
+            "time_to": "21:45"
+          }, 
+          {
+            "artist": "izambard \u2013 kingdome", 
+            "time_from": "20:00", 
+            "time_to": "20:30"
+          }, 
+          {
+            "artist": "omar baba", 
+            "time_from": "19:00", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "hang dai", 
+            "time_from": "18:00", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "naan breddaz (rishky)", 
+            "time_from": "17:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "hip hop", 
+            "time_from": "16:00", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "m ellerby", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "civil", 
+            "time_from": "15:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "the front room", 
+            "time_from": "13:15", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "drum workshop with drum nation", 
+            "time_from": "12:15", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "tai chi workshop with christian lopez", 
+            "time_from": "11:30", 
+            "time_to": "12:15"
+          }
+        ], 
+        "stage": "THE PEOPLE\u2019S LOUNGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "DJ-Joe Mann", 
+            "time_from": "17:55", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "DEEPS with Brother Deep", 
+            "time_from": "17:20", 
+            "time_to": "17:55"
+          }, 
+          {
+            "artist": "MP2A", 
+            "time_from": "16:45", 
+            "time_to": "17:20"
+          }, 
+          {
+            "artist": "DJ-Joe Mann", 
+            "time_from": "16:30", 
+            "time_to": "16:45"
+          }, 
+          {
+            "artist": "MP2B \u2013 Izzy band", 
+            "time_from": "15:55", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "DJ-Ross Dyer", 
+            "time_from": "15:20", 
+            "time_to": "15:55"
+          }, 
+          {
+            "artist": "Nevaeh", 
+            "time_from": "15:00", 
+            "time_to": "15:20"
+          }, 
+          {
+            "artist": "Certificates", 
+            "time_from": "14:25", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "DJ-Ross Dyer", 
+            "time_from": "14:05", 
+            "time_to": "14:20"
+          }, 
+          {
+            "artist": "MP1A", 
+            "time_from": "13:30", 
+            "time_to": "14:05"
+          }, 
+          {
+            "artist": "DJ-Broken Beats", 
+            "time_from": "13:15", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "MP1A", 
+            "time_from": "12:40", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "DJ \u2013 Broken Beats", 
+            "time_from": "12:05", 
+            "time_to": "12:40"
+          }, 
+          {
+            "artist": "MP2B", 
+            "time_from": "11:30", 
+            "time_to": "12:05"
+          }, 
+          {
+            "artist": "Lenny Wealan", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "AMP STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Will Chump & Friends", 
+            "time_from": "21:40", 
+            "time_to": "22:55"
+          }, 
+          {
+            "artist": "Billy Colburn", 
+            "time_from": "20:20", 
+            "time_to": "21:40"
+          }, 
+          {
+            "artist": "Chaos DJs feat. Jay and Bob", 
+            "time_from": "19:15", 
+            "time_to": "20:20"
+          }, 
+          {
+            "artist": "Mikey Duke", 
+            "time_from": "18:30", 
+            "time_to": "19:15"
+          }
+        ], 
+        "stage": "SOUL CIRCUS"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Sunjai Arif", 
+            "time_from": "17:00", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "Lucy Bee", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Patrick Casey", 
+            "time_from": "15:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "Rae Rae Lloydy", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Nathan Eagle", 
+            "time_from": "13:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Graeme Collard", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }
+        ], 
+        "stage": "COMEDY TENT"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Adult/Family Roller Disco", 
+            "time_from": "16:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Team Autographs", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Southsea Skatepark Display Team Demos", 
+            "time_from": "14:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "Adult/Family Roller Disco", 
+            "time_from": "12:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Kids/Mini Wheelers Roller Disco", 
+            "time_from": "10:00", 
+            "time_to": "12:00"
+          }
+        ], 
+        "stage": "SOUTHSEA SKATEPARK"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Andy day & the odd socks", 
+            "time_from": "17:05", 
+            "time_to": "17:35"
+          }, 
+          {
+            "artist": "performance from the sh imaginations princesses", 
+            "time_from": "16:10", 
+            "time_to": "16:40"
+          }, 
+          {
+            "artist": "bessie cursos theatre and dance academy", 
+            "time_from": "15:15", 
+            "time_to": "15:45"
+          }, 
+          {
+            "artist": "magic show presented by kids stage host ross presto", 
+            "time_from": "14:20", 
+            "time_to": "14:50"
+          }, 
+          {
+            "artist": "empress all girl street dance crew", 
+            "time_from": "13:25", 
+            "time_to": "13:55"
+          }, 
+          {
+            "artist": "andy day & the odd socks", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "performance from the sh imaginations princesses", 
+            "time_from": "11:35", 
+            "time_to": "12:05"
+          }, 
+          {
+            "artist": "pyjama drama", 
+            "time_from": "10:40", 
+            "time_to": "11:10"
+          }
+        ], 
+        "stage": "KIDS STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "17:20", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "15:50", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "15:10", 
+            "time_to": "15:40"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "13:40", 
+            "time_to": "14:10"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "12:50", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "11:20", 
+            "time_to": "12:00"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "10:30", 
+            "time_to": "11:00"
+          }
+        ], 
+        "stage": "KIDS ARENA MEET AND GREETS"
+      }
+    ]
+  }, 
+  {
+    "day": "Sunday", 
+    "stages": [
+      {
+        "acts": [
+          {
+            "artist": "The Prodigy", 
+            "time_from": "21:20", 
+            "time_to": "22:50"
+          }, 
+          {
+            "artist": "Friendly Fires", 
+            "time_from": "19:50", 
+            "time_to": "20:40"
+          }, 
+          {
+            "artist": "Sleaford Mods", 
+            "time_from": "18:35", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "The Amazons", 
+            "time_from": "17:20", 
+            "time_to": "18:05"
+          }, 
+          {
+            "artist": "The Bluetones", 
+            "time_from": "16:20", 
+            "time_to": "16:50"
+          }, 
+          {
+            "artist": "Marika Hackman", 
+            "time_from": "15:20", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Dub Pistols", 
+            "time_from": "14:30", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "Gomez", 
+            "time_from": "13:15", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "Me & The Moon", 
+            "time_from": "12:15", 
+            "time_to": "12:45"
+          }
+        ], 
+        "stage": "COMMON STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Years & Years", 
+            "time_from": "21:45", 
+            "time_to": "22:45"
+          }, 
+          {
+            "artist": "Example & DJ Wire", 
+            "time_from": "20:15", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "Embrace", 
+            "time_from": "19:00", 
+            "time_to": "19:45"
+          }, 
+          {
+            "artist": "Reverend and the Makers", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "Gengahr", 
+            "time_from": "17:00", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "The Orielles", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Jerry Williams", 
+            "time_from": "15:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "Stereo Honey", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Bang Bang Romeo", 
+            "time_from": "13:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Sam Wills", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }
+        ], 
+        "stage": "CASTLE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Lucy Spraggan", 
+            "time_from": "22:00", 
+            "time_to": "22:45"
+          }, 
+          {
+            "artist": "Chris Helme", 
+            "time_from": "20:45", 
+            "time_to": "21:30"
+          }, 
+          {
+            "artist": "Nathan Ball", 
+            "time_from": "19:45", 
+            "time_to": "20:15"
+          }, 
+          {
+            "artist": "Lily Moore", 
+            "time_from": "18:45", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Joel Baker", 
+            "time_from": "17:45", 
+            "time_to": "18:15"
+          }, 
+          {
+            "artist": "Brock Landers and the Estelles", 
+            "time_from": "16:30", 
+            "time_to": "17:15"
+          }, 
+          {
+            "artist": "Dani Uziel", 
+            "time_from": "15:50", 
+            "time_to": "16:20"
+          }, 
+          {
+            "artist": "Lauren and the Heatwaves", 
+            "time_from": "15:10", 
+            "time_to": "15:40"
+          }, 
+          {
+            "artist": "Southsea Alternative Choir", 
+            "time_from": "14:30", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "The Tribe", 
+            "time_from": "13:50", 
+            "time_to": "14:20"
+          }, 
+          {
+            "artist": "Joe Hendry", 
+            "time_from": "13:10", 
+            "time_to": "13:40"
+          }, 
+          {
+            "artist": "Emmay", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Mantic Muddlers", 
+            "time_from": "11:50", 
+            "time_to": "12:20"
+          }, 
+          {
+            "artist": "The Quays Band", 
+            "time_from": "11:10", 
+            "time_to": "11:40"
+          }, 
+          {
+            "artist": "Thinking Jack", 
+            "time_from": "10:30", 
+            "time_to": "11:00"
+          }
+        ], 
+        "stage": "ACOUSTIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Flowvers", 
+            "time_from": "22:15", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "Me and the Moon", 
+            "time_from": "21:30", 
+            "time_to": "22:00"
+          }, 
+          {
+            "artist": "Southsea Alternative Choir", 
+            "time_from": "20:45", 
+            "time_to": "21:15"
+          }, 
+          {
+            "artist": "Rebel Heroes (David Bowie Tribute)", 
+            "time_from": "19:30", 
+            "time_to": "20:30"
+          }, 
+          {
+            "artist": "The Bootlegs", 
+            "time_from": "18:40", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Dermot O\u2019Leary DJ Set", 
+            "time_from": "17:45", 
+            "time_to": "18:40"
+          }, 
+          {
+            "artist": "Choose 90s", 
+            "time_from": "16:15", 
+            "time_to": "17:45"
+          }, 
+          {
+            "artist": "Great Scott (Featuring Rachael Hawnt)", 
+            "time_from": "15:15", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Kojaks Revenge", 
+            "time_from": "14:15", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "FM Live", 
+            "time_from": "13:15", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "The Urban Vocal Group", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Skaraman", 
+            "time_from": "11:45", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "Sapphire", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "SEASIDE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Dr. DJ", 
+            "time_from": "20:00", 
+            "time_to": "22:00"
+          }, 
+          {
+            "artist": "The Turbans", 
+            "time_from": "19:00", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Simo Lagnawi\u2019s Gnawa London", 
+            "time_from": "18:00", 
+            "time_to": "18:50"
+          }, 
+          {
+            "artist": "Sounds of Refuge", 
+            "time_from": "17:00", 
+            "time_to": "17:50"
+          }, 
+          {
+            "artist": "Fellowship of Groove", 
+            "time_from": "16:00", 
+            "time_to": "16:50"
+          }, 
+          {
+            "artist": "Lebeaux", 
+            "time_from": "15:00", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Tosca Bonito", 
+            "time_from": "14:00", 
+            "time_to": "14:50"
+          }, 
+          {
+            "artist": "DJ Tuli Latin Dance Workshop", 
+            "time_from": "13:00", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "Africapella", 
+            "time_from": "12:00", 
+            "time_to": "12:45"
+          }, 
+          {
+            "artist": "Scott Booth", 
+            "time_from": "11:30", 
+            "time_to": "12:00"
+          }, 
+          {
+            "artist": "Drum Nation Welcome", 
+            "time_from": "11:00", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "WORLD MUSIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "The Collision", 
+            "time_from": "22:15", 
+            "time_to": "22:45"
+          }, 
+          {
+            "artist": "Mad King Ludwig & the Mojo Co.", 
+            "time_from": "21:30", 
+            "time_to": "22:00"
+          }, 
+          {
+            "artist": "The Jaspers", 
+            "time_from": "20:45", 
+            "time_to": "21:15"
+          }, 
+          {
+            "artist": "Mollie Scott", 
+            "time_from": "20:00", 
+            "time_to": "20:30"
+          }, 
+          {
+            "artist": "Timeless", 
+            "time_from": "19:15", 
+            "time_to": "19:45"
+          }, 
+          {
+            "artist": "Marley Blandford", 
+            "time_from": "18:30", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "The Spoils", 
+            "time_from": "17:45", 
+            "time_to": "18:15"
+          }, 
+          {
+            "artist": "Southsea Alternative Choir", 
+            "time_from": "17:00", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "Matt Allen\u2019s Mystery Beaks", 
+            "time_from": "16:15", 
+            "time_to": "16:45"
+          }, 
+          {
+            "artist": "Sink or Soar", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "The Family", 
+            "time_from": "14:45", 
+            "time_to": "15:15"
+          }, 
+          {
+            "artist": "Nick Day", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Lily Garland", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "Cadency", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Plaitford Common", 
+            "time_from": "11:45", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "Mr. Charlie", 
+            "time_from": "11:00", 
+            "time_to": "11:00"
+          }
+        ], 
+        "stage": "REAL ALE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Andy Foster", 
+            "time_from": "20:10", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "Leon C", 
+            "time_from": "19:30", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Claudia Stark", 
+            "time_from": "18:40", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "Rachel Broad", 
+            "time_from": "18:00", 
+            "time_to": "18:30"
+          }, 
+          {
+            "artist": "Alfie Horne", 
+            "time_from": "17:20", 
+            "time_to": "17:50"
+          }, 
+          {
+            "artist": "Toby Janes", 
+            "time_from": "16:40", 
+            "time_to": "17:10"
+          }, 
+          {
+            "artist": "Lennon Taylor", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Cara Goodrem", 
+            "time_from": "15:20", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Renee B", 
+            "time_from": "14:40", 
+            "time_to": "15:10"
+          }, 
+          {
+            "artist": "Chris Peace", 
+            "time_from": "14:15", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Sam Cutbush", 
+            "time_from": "14:00", 
+            "time_to": "14:15"
+          }, 
+          {
+            "artist": "Ellie May", 
+            "time_from": "13:20", 
+            "time_to": "13:50"
+          }, 
+          {
+            "artist": "Charlotte Neal", 
+            "time_from": "12:40", 
+            "time_to": "13:10"
+          }, 
+          {
+            "artist": "Alex Higgins", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }, 
+          {
+            "artist": "Lisa Holleworth", 
+            "time_from": "11:20", 
+            "time_to": "11:50"
+          }, 
+          {
+            "artist": "Ade Cull", 
+            "time_from": "10:40", 
+            "time_to": "11:10"
+          }
+        ], 
+        "stage": "STRONG ISLAND ACOUSTIC STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "The Aim", 
+            "time_from": "20:10", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "Roy Peplow", 
+            "time_from": "19:30", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Alice Milburn", 
+            "time_from": "18:50", 
+            "time_to": "19:20"
+          }, 
+          {
+            "artist": "Southerlies", 
+            "time_from": "18:10", 
+            "time_to": "18:40"
+          }, 
+          {
+            "artist": "Paige Monroe", 
+            "time_from": "17:30", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Matt Barnes", 
+            "time_from": "16:50", 
+            "time_to": "17:20"
+          }, 
+          {
+            "artist": "Saving Koko", 
+            "time_from": "16:10", 
+            "time_to": "16:40"
+          }, 
+          {
+            "artist": "Sertari", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Revelator", 
+            "time_from": "14:50", 
+            "time_to": "15:20"
+          }, 
+          {
+            "artist": "Jimi and the Jaffa Cakes", 
+            "time_from": "13:50", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Matt McGowan", 
+            "time_from": "13:10", 
+            "time_to": "13:40"
+          }, 
+          {
+            "artist": "Fugitive Orchestra", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "The Peaches", 
+            "time_from": "11:50", 
+            "time_to": "12:20"
+          }, 
+          {
+            "artist": "Urban Hymns", 
+            "time_from": "11:00", 
+            "time_to": "11:40"
+          }, 
+          {
+            "artist": "Southside Bay", 
+            "time_from": "10:15", 
+            "time_to": "10:45"
+          }
+        ], 
+        "stage": "SHOWCASE STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "The Correspondents", 
+            "time_from": "21:30", 
+            "time_to": "22:30"
+          }, 
+          {
+            "artist": "The Philosipha", 
+            "time_from": "20:15", 
+            "time_to": "21:15"
+          }, 
+          {
+            "artist": "Temples of Youth", 
+            "time_from": "19:30", 
+            "time_to": "20:15"
+          }, 
+          {
+            "artist": "Wesley Brown", 
+            "time_from": "18:15", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Tuba Libres", 
+            "time_from": "17:30", 
+            "time_to": "18:15"
+          }, 
+          {
+            "artist": "Nick Hollywood", 
+            "time_from": "16:15", 
+            "time_to": "17:15"
+          }, 
+          {
+            "artist": "Josephine & the Artizans", 
+            "time_from": "15:30", 
+            "time_to": "16:15"
+          }, 
+          {
+            "artist": "Soul 45", 
+            "time_from": "14:15", 
+            "time_to": "15:15"
+          }, 
+          {
+            "artist": "Paul Dillon", 
+            "time_from": "13:45", 
+            "time_to": "14:15"
+          }, 
+          {
+            "artist": "Southsea Swing", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "Tonic Presents", 
+            "time_from": "12:15", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "Happy Hula Monkeys", 
+            "time_from": "11:30", 
+            "time_to": "12:15"
+          }, 
+          {
+            "artist": "Beats & Swing Soundsystem", 
+            "time_from": "10:30", 
+            "time_to": "11:30"
+          }
+        ], 
+        "stage": "BEATS & SWING TENT"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Gentle Bren and Wax Equities", 
+            "time_from": "21:00", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "Gentle Bren and Handsome Dave Rocker", 
+            "time_from": "20:00", 
+            "time_to": "21:00"
+          }, 
+          {
+            "artist": "Gentle Bren", 
+            "time_from": "19:00", 
+            "time_to": "20:00"
+          }, 
+          {
+            "artist": "Reboot", 
+            "time_from": "18:00", 
+            "time_to": "19:00"
+          }, 
+          {
+            "artist": "Gentle Bren", 
+            "time_from": "16:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Joe Smith", 
+            "time_from": "15:00", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Wax Equities", 
+            "time_from": "14:00", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "Bren and Jackson Hyde", 
+            "time_from": "13:00", 
+            "time_to": "14:00"
+          }, 
+          {
+            "artist": "Luke Dharma", 
+            "time_from": "12:00", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Gentle Bren", 
+            "time_from": "11:00", 
+            "time_to": "12:00"
+          }
+        ], 
+        "stage": "SOUTHSEA CASTLE CHAMPAGNE BAR"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Tropical Disco with DJs Sahara Rock & MoFunk", 
+            "time_from": "21:30", 
+            "time_to": "23:00"
+          }, 
+          {
+            "artist": "Beatroot Funk", 
+            "time_from": "20:15", 
+            "time_to": "21:30"
+          }, 
+          {
+            "artist": "The Southsea Groove Collective with Rich Muscat", 
+            "time_from": "19:00", 
+            "time_to": "20:15"
+          }, 
+          {
+            "artist": "Rob Milner and Friends", 
+            "time_from": "18:00", 
+            "time_to": "19:05"
+          }, 
+          {
+            "artist": "Muttnick", 
+            "time_from": "17:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Tilda Allie", 
+            "time_from": "16:00", 
+            "time_to": "17:00"
+          }, 
+          {
+            "artist": "Peoples Lounge Jazz Ensemble", 
+            "time_from": "15:00", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "The Front Room and Megan Linford presents Future Folk", 
+            "time_from": "13:15", 
+            "time_to": "15:00"
+          }, 
+          {
+            "artist": "Drum Workshop with Drum Nation", 
+            "time_from": "12:15", 
+            "time_to": "13:15"
+          }, 
+          {
+            "artist": "Tai Chi Workshop with Christian Lopez", 
+            "time_from": "11:30", 
+            "time_to": "12:15"
+          }
+        ], 
+        "stage": "THE PEOPLE\u2019S LOUNGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "DJ", 
+            "time_from": "18:45", 
+            "time_to": "19:15"
+          }, 
+          {
+            "artist": "Los Hombres", 
+            "time_from": "18:00", 
+            "time_to": "18:45"
+          }, 
+          {
+            "artist": "DJ", 
+            "time_from": "17:30", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "The Funktions", 
+            "time_from": "16:55", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "DJ-Leon Waughn", 
+            "time_from": "16:25", 
+            "time_to": "16:55"
+          }, 
+          {
+            "artist": "Subsidiaries", 
+            "time_from": "15:50", 
+            "time_to": "16:25"
+          }, 
+          {
+            "artist": "DJ-Leon Waughn", 
+            "time_from": "15:30", 
+            "time_to": "15:50"
+          }, 
+          {
+            "artist": "Mp2B", 
+            "time_from": "14:55", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "DJ-Carter Richardson", 
+            "time_from": "14:25", 
+            "time_to": "14:55"
+          }, 
+          {
+            "artist": "The Cowplain School Band \u2013 Jukebox", 
+            "time_from": "13:45", 
+            "time_to": "14:25"
+          }, 
+          {
+            "artist": "DJ-Carter Richardson", 
+            "time_from": "13:15", 
+            "time_to": "13:45"
+          }, 
+          {
+            "artist": "MP1B", 
+            "time_from": "12:25", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "DJ \u2013 Jordan Michean-Bourne", 
+            "time_from": "12:20", 
+            "time_to": "12:25"
+          }, 
+          {
+            "artist": "MP1B", 
+            "time_from": "11:35", 
+            "time_to": "12:10"
+          }, 
+          {
+            "artist": "DJ \u2013 Jordan Michean-Bourne", 
+            "time_from": "11:00", 
+            "time_to": "11:35"
+          }
+        ], 
+        "stage": "AMP STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Pete Scathe", 
+            "time_from": "21:40", 
+            "time_to": "22:55"
+          }, 
+          {
+            "artist": "Soul 45", 
+            "time_from": "20:20", 
+            "time_to": "21:40"
+          }, 
+          {
+            "artist": "Hipshaker", 
+            "time_from": "19:15", 
+            "time_to": "20:20"
+          }, 
+          {
+            "artist": "Mikey Duke", 
+            "time_from": "18:30", 
+            "time_to": "19:15"
+          }
+        ], 
+        "stage": "SOUL CIRCUS"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Sunjai Arif", 
+            "time_from": "17:00", 
+            "time_to": "17:30"
+          }, 
+          {
+            "artist": "Lucy Bee", 
+            "time_from": "16:00", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Patrick Casey", 
+            "time_from": "15:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "Rae Rae Lloydy", 
+            "time_from": "14:00", 
+            "time_to": "14:30"
+          }, 
+          {
+            "artist": "Nathan Eagle", 
+            "time_from": "13:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Graeme Collard", 
+            "time_from": "12:00", 
+            "time_to": "12:30"
+          }
+        ], 
+        "stage": "COMEDY TENT"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Adult/Family Roller Disco", 
+            "time_from": "16:00", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Team Autographs", 
+            "time_from": "15:30", 
+            "time_to": "16:00"
+          }, 
+          {
+            "artist": "Southsea Skatepark Display Team Demos", 
+            "time_from": "14:00", 
+            "time_to": "15:30"
+          }, 
+          {
+            "artist": "Adult/Family Roller Disco", 
+            "time_from": "12:00", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Kids/Mini Wheelers Roller Disco", 
+            "time_from": "10:00", 
+            "time_to": "12:00"
+          }
+        ], 
+        "stage": "SOUTHSEA SKATEPARK"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Cook and Line", 
+            "time_from": "17:05", 
+            "time_to": "17:35"
+          }, 
+          {
+            "artist": "Performance from the SH Imaginations Princesses", 
+            "time_from": "16:10", 
+            "time_to": "16:40"
+          }, 
+          {
+            "artist": "Empress \u201call girl street dance crew\u201d", 
+            "time_from": "15:15", 
+            "time_to": "15:45"
+          }, 
+          {
+            "artist": "Magic Show presented by Kids Stage host Ross Presto", 
+            "time_from": "14:20", 
+            "time_to": "14:50"
+          }, 
+          {
+            "artist": "Bessie Cursons Theatre and Dance Academy", 
+            "time_from": "13:25", 
+            "time_to": "13:55"
+          }, 
+          {
+            "artist": "Cook and Line", 
+            "time_from": "12:30", 
+            "time_to": "13:00"
+          }, 
+          {
+            "artist": "Performance from the SH Imaginations Princesses", 
+            "time_from": "11:35", 
+            "time_to": "12:05"
+          }, 
+          {
+            "artist": "Pyjama Drama", 
+            "time_from": "10:40", 
+            "time_to": "11:10"
+          }
+        ], 
+        "stage": "KIDS STAGE"
+      }, 
+      {
+        "acts": [
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "17:20", 
+            "time_to": "18:00"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "15:50", 
+            "time_to": "16:30"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "15:10", 
+            "time_to": "15:40"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "13:40", 
+            "time_to": "14:10"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "12:50", 
+            "time_to": "13:30"
+          }, 
+          {
+            "artist": "Adventure Time\u2019s Finn & Jake", 
+            "time_from": "11:20", 
+            "time_to": "12:00"
+          }, 
+          {
+            "artist": "Paddington\u2122", 
+            "time_from": "10:30", 
+            "time_to": "11:00"
+          }
+        ], 
+        "stage": "KIDS ARENA MEET AND GREETS"
+      }
+    ]
+  }
+]

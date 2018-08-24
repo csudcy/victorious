@@ -1,7 +1,10 @@
+# -*- coding: utf-8 -*-
+
 import json
 import os
+import re
 
-YEAR = 2017
+YEAR = 2018
 CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 YEAR_DIRECTORY = os.path.join(CURRENT_DIRECTORY, str(YEAR))
 SOURCE = os.path.join(YEAR_DIRECTORY, 'lineup.txt')
@@ -11,20 +14,7 @@ print 'Reading {SOURCE}...'.format(SOURCE=SOURCE)
 with open(SOURCE, 'r') as f:
   LINES = f.readlines()
 
-STAGE_ENDINGS = [
-  ' STAGE',
-  ' TENT',
-  ' BAR',
-  ' LOUNGE',
-  ' CIRCUS',
-  'KIDS ARENA MEET AND GREETS',
-]
-
-def is_stage(line):
-  for ending in STAGE_ENDINGS:
-    if line[-len(ending):] == ending:
-      return True
-  return False
+STAGE_RE = r'^[A-Z &’]+$'
 
 print 'Processing...'
 
@@ -33,7 +23,7 @@ current_stage = None
 current_day_stage = None
 days = []
 act_count = 0
-for line in LINES:
+for index, line in enumerate(LINES):
   line = line.strip()
 
   # Skip blank lines
@@ -41,7 +31,7 @@ for line in LINES:
     continue
 
   # Skip the header lines
-  if line == 'Artist\tTimes':
+  if line.endswith('\tTimes'):
     continue
 
   if line[-3:] == 'day':
@@ -52,7 +42,7 @@ for line in LINES:
     }
     days.append(current_day)
 
-  elif is_stage(line):
+  elif re.match(STAGE_RE, line):
     # This is the start of a new stage
     stage = line
     current_day_stage = {
@@ -64,8 +54,9 @@ for line in LINES:
   elif '\t' in line:
     # This should be an artist/time line
     artist, time = line.split('\t')
+    time = time.replace('–', '-')
     if '-' not in time:
-      raise Exception('Expected time to contain a dash (are they unicode dashes?): ' + time)
+      raise Exception('Expected time ("{}", line {}) to contain a dash (are they unicode dashes?)!'.format(time, index+1))
     time_from, time_to = time.split('-')
 
     current_day_stage['acts'].append({
@@ -76,7 +67,7 @@ for line in LINES:
     act_count += 1
 
   else:
-    print 'Unkown line format: ' + line
+    print 'Unknown line format (line {}): {}'.format(index+1, line)
 
 print 'Writing {DEST}...'.format(DEST=DEST)
 

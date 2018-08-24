@@ -2,7 +2,7 @@ import codecs
 import json
 import os
 
-YEAR = 2017
+YEAR = 2018
 CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 YEAR_DIRECTORY = os.path.join(CURRENT_DIRECTORY, str(YEAR))
 SOURCE = os.path.join(YEAR_DIRECTORY, 'lineup.json')
